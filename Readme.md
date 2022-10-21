@@ -26,3 +26,5 @@ https://github.com/cppio/uefi-backdoor
 
 https://github.com/quarkslab/dreamboot
 
+https://github.com/killvxk/uefi-rootkit
+
