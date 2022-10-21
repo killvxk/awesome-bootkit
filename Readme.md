@@ -12,3 +12,10 @@ https://github.com/btbd/umap
 
 https://github.com/gfoudree/UEFIBootkit
 
+https://github.com/benheise/bootkit
+
+https://github.com/firebitsbr/-Rainbow---EFI
+
+https://github.com/SamuelTulach/rainbow
+
+https://github.com/A-Kanata/UEFI-Bootkit
