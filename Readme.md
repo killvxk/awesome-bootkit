@@ -19,3 +19,10 @@ https://github.com/firebitsbr/-Rainbow---EFI
 https://github.com/SamuelTulach/rainbow
 
 https://github.com/A-Kanata/UEFI-Bootkit
+
+https://github.com/SecIdiot/bootdoor
+
+https://github.com/cppio/uefi-backdoor
+
+https://github.com/quarkslab/dreamboot
+
