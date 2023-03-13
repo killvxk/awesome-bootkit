@@ -28,3 +28,5 @@ https://github.com/quarkslab/dreamboot
 
 https://github.com/killvxk/uefi-rootkit
 
+https://github.com/realoriginal/bootlicker
+
