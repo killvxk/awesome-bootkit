@@ -32,3 +32,11 @@ https://github.com/realoriginal/bootlicker
 
 https://github.com/realoriginal/bootdoor
 
+https://github.com/samshine/VoyagerWithEPT
+
+https://github.com/unreaIuser/Voyager
+
+https://github.com/Timess/vEPT
+
+https://github.com/Dy-Baby/modded-voyager
+
