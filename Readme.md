@@ -45,6 +45,8 @@ https://github.com/realoriginal/blacklotus
 https://github.com/ekknod/sumap
 
 
-## UEFI XX
+## UEFI BootNext
 
 https://github.com/DavidXanatos/DiskCryptor
+
+https://github.com/pgaskin/bootnext
