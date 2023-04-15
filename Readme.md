@@ -45,3 +45,6 @@ https://github.com/realoriginal/blacklotus
 https://github.com/ekknod/sumap
 
 
+## UEFI XX
+
+https://github.com/DavidXanatos/DiskCryptor
