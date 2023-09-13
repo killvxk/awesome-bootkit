@@ -51,6 +51,8 @@ https://github.com/xmmword/x0
 ## Old School
 
 https://github.com/thejanit0r/x86_vbrkit
+https://github.com/Tserith/Parasite
+
 
 ## UEFI BootNext
 
