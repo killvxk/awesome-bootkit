@@ -53,6 +53,17 @@ https://github.com/xmmword/x0
 https://github.com/thejanit0r/x86_vbrkit
 https://github.com/Tserith/Parasite
 
+### GAPZ
+https://github.com/Darkabode/zerokit
+https://github.com/Darkabode/possessor
+https://github.com/Darkabode/android-possessor
+https://github.com/Darkabode/0ctrl
+https://github.com/Darkabode/amte
+https://github.com/Darkabode/0lib
+
+### Rovinx
+https://github.com/nyx0/Rovnix
+
 
 ## UEFI BootNext
 
