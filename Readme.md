@@ -44,6 +44,13 @@ https://github.com/realoriginal/blacklotus
 
 https://github.com/ekknod/sumap
 
+https://github.com/0x00Alchemist/ResilienceKit
+
+https://github.com/xmmword/x0
+
+## Old School
+
+https://github.com/thejanit0r/x86_vbrkit
 
 ## UEFI BootNext
 
